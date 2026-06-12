@@ -1,0 +1,25 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Power BI cache
+.pbi/
+
+# Excel temp files
+~$*.xlsx
+~$*.xls
+
+# VS Code
+.vscode/
+
+# Python (if used for data scripts later)
+__pycache__/
+*.py[cod]
+.env
+venv/
